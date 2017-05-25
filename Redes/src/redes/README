@@ -1,0 +1,8 @@
+Classe Questao: Trabalha com os eventos da tela. Ligando cada objeto da tela a uma 
+variável da classe.
+
+Classe QuestaoAux: Possui funções que lidam com a lógica do app. Há funções para verificar
+se a resposta está certa, outra para retornar um array randomizado, entre outros.
+
+Classe QuestaoConector: Serve para atribuir as questões do arquivo strings.xml às 
+variáveis do app.
