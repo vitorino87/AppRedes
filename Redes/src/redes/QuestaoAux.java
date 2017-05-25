@@ -71,4 +71,7 @@ public class QuestaoAux {
 				}
 			}
 		}		
+		public void teste(){
+			
+		}
 }
